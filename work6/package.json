@@ -1,0 +1,19 @@
+{
+  "name": "work6",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "keywords": [
+    "npm",
+    "node"
+  ],
+  "author": "burhan",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.16.0",
+    "moment": "^2.30.1"
+  }
+}
